@@ -1,0 +1,3 @@
+IMPORTANT: These .pbix files only work on Microsoft Power BI. 
+
+Description: A few practice reports I made in Power BI. The first one is a US data visualization that displays various population and location data of the states. The second one is a global economic indicators report that shows the countries of the world along with data like GDP, population density, etc. The last one is a COVID dashboard, displaying countries and their positive cases for COVID from January 2020 to March 2023
